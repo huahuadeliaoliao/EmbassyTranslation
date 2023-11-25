@@ -1,2 +1,2 @@
 # EmbassyTranslation
-Translation of A basic Embassy application
+Embassy入门第一章：一个基本的Embassy应用
